@@ -21,6 +21,50 @@
      id="defs2">
     <inkscape:path-effect
        effect="spiro"
+       id="path-effect3699"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3689"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3467"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1576"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1570"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1565"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
        id="path-effect1999"
        is_visible="true" />
     <inkscape:path-effect
@@ -93,14 +137,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="519.13082"
-     inkscape:cy="529.97811"
+     inkscape:zoom="0.7"
+     inkscape:cx="409.5431"
+     inkscape:cy="514.74747"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="2550"
-     inkscape:window-height="1365"
+     inkscape:window-width="1718"
+     inkscape:window-height="1005"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="0"
@@ -116,15 +160,31 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Page"
+     style="display:none">
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.54374909;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1157"
+       width="335.4855"
+       height="434.31757"
+       x="-7.1192904"
+       y="-3.0194135"
+       inkscape:export-xdpi="151.16359"
+       inkscape:export-ydpi="151.16359" />
+  </g>
+  <g
+     inkscape:label="Base"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(470.21924,51.724411)">
+     transform="translate(470.21924,51.724411)"
+     style="display:inline">
     <g
        id="g4681"
        transform="matrix(0.971,-0.238,0.587,0.765,-1406.519,351.7256)"
@@ -2095,5 +2155,933 @@
        d="M -386.47175,44.430278 V 30.933166"
        id="path5224"
        inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.99999998, 1.99999998;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -436.00874,1.1519034 15.50163,25.6578756 101.02788,-23.7869884 -33.94323,-18.1743266 -72.96458,12.2943961 z"
+       id="path3697"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect3699"
+       inkscape:original-d="m -436.00874,1.1519034 c 0,0 15.50163,25.6578756 15.50163,25.6578756 0,0 101.02788,-23.7869884 101.02788,-23.7869884 0,0 -33.94323,-18.1743266 -33.94323,-18.1743266 0,0 -72.96458,12.2943961 -72.96458,12.2943961 0,0 -9.6217,4.0090433 -9.6217,4.0090433 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Tour"
+     style="display:none">
+    <g
+       transform="matrix(0.29944054,0,0,0.29944054,153.70472,143.10551)"
+       id="g1448">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1442"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text1446"><tspan
+           sodipodi:role="line"
+           id="tspan1444"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">1</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.29944054,0,0,0.29944054,207.56633,156.14569)"
+       id="g1456">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1450"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text1454"><tspan
+           sodipodi:role="line"
+           id="tspan1452"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">2</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.29944054,0,0,0.29944054,216.07079,100.58319)"
+       id="g1464">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1458"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text1462"><tspan
+           sodipodi:role="line"
+           id="tspan1460"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">4</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.29944054,0,0,0.29944054,148.79103,99.827236)"
+       id="g1472">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1466"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text1470"><tspan
+           sodipodi:role="line"
+           id="tspan1468"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">5</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.29944054,0,0,0.29944054,92.283589,153.49986)"
+       id="g1480">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1474"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text1478"><tspan
+           sodipodi:role="line"
+           id="tspan1476"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">6</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.29944054,0,0,0.29944054,56.186863,156.90164)"
+       id="g1488">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1482"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text1486"><tspan
+           sodipodi:role="line"
+           id="tspan1484"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">7</tspan></text>
+    </g>
+    <g
+       id="g1440"
+       transform="matrix(0.29944054,0,0,0.29944054,90.393708,173.72158)">
+      <circle
+         r="10.205358"
+         cy="278.19049"
+         cx="26.836309"
+         id="path1431"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text1435"
+         y="283.9155"
+         x="26.840504"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681"
+           y="283.9155"
+           x="26.840504"
+           id="tspan1433"
+           sodipodi:role="line">8</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.29944054,0,0,0.29944054,74.325671,50.897524)"
+       id="g1504">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1498"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text1502"><tspan
+           sodipodi:role="line"
+           id="tspan1500"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">1</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.29944054,0,0,0.29944054,196.73511,45.017594)"
+       id="g1512">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1506"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text1510"><tspan
+           sodipodi:role="line"
+           id="tspan1508"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">2</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.29944054,0,0,0.29944054,222.39299,33.792274)"
+       id="g1520">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1514"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text1518"><tspan
+           sodipodi:role="line"
+           id="tspan1516"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">3</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.29944054,0,0,0.29944054,261.41434,28.446883)"
+       id="g1528">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1522"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text1526"><tspan
+           sodipodi:role="line"
+           id="tspan1524"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">4</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.29944054,0,0,0.29944054,246.44725,9.6043823)"
+       id="g1536">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1530"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text1534"><tspan
+           sodipodi:role="line"
+           id="tspan1532"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">5</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.29944054,0,0,0.29944054,232.01469,-6.4317892)"
+       id="g1544">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1538"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text1542"><tspan
+           sodipodi:role="line"
+           id="tspan1540"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">6</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.29944054,0,0,0.29944054,226.93656,-15.385318)"
+       id="g1552">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1546"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text1550"><tspan
+           sodipodi:role="line"
+           id="tspan1548"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">7</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.29944054,0,0,0.29944054,198.07146,-25.80883)"
+       id="g1560">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1554"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text1558"><tspan
+           sodipodi:role="line"
+           id="tspan1556"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">8</tspan></text>
+    </g>
+    <g
+       id="g1496"
+       transform="matrix(0.29944054,0,0,0.29944054,148.6266,-10.574467)">
+      <circle
+         r="10.205358"
+         cy="278.19049"
+         cx="26.836309"
+         id="circle1490"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text1494"
+         y="283.9155"
+         x="26.840504"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681"
+           y="283.9155"
+           x="26.840504"
+           id="tspan1492"
+           sodipodi:role="line">9</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.20623493px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.96924043;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.87696143, 3.87696143;stroke-dashoffset:0;stroke-opacity:1"
+       x="41.359169"
+       y="300.52063"
+       id="text1889"><tspan
+         sodipodi:role="line"
+         id="tspan1887"
+         x="41.359169"
+         y="300.52063"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#000000;stroke:none;stroke-width:0.96924043">4th floor</tspan></text>
+    <text
+       id="text2063"
+       y="300.52063"
+       x="183.69733"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.20623493px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.96924043;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.87696143, 3.87696143;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#000000;stroke:none;stroke-width:0.96924043"
+         y="300.52063"
+         x="183.69733"
+         id="tspan2061"
+         sodipodi:role="line">5th floor</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1275"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.66666698px;line-height:0px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88976383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.24549904,0,0,0.24549904,79.757568,0.199529)"><flowRegion
+         id="flowRegion1277"><rect
+           id="rect1279"
+           width="500.59995"
+           height="390.517"
+           x="-199.28571"
+           y="1262.1429" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1895"><flowSpan
+   id="flowSpan1967"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'">Presentation area</flowSpan> - feel free to book this to give a talk, or even watch a movie.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1301" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1915" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1917" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1919" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1921" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1923" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1927" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1897"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan1965">Retro computer museum</flowSpan> - this space is in progress, but you can program on these computers!</flowPara><flowPara
+         id="flowPara3449"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"><flowSpan
+   id="flowSpan3455"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'">Babbage</flowSpan> - a comfortable place to hang out!</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1939"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan1987">Kitchen</flowSpan> - you can use the fridges, one is for personal food and the other is for communal. Please label all of your food, especially fridge food, with your name and date. It is all of our shared responsibility to keep the RC space clean.    </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1941"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan1989">Bathrooms</flowSpan> - on this floor, they’re labeled men’s and women’s, feel free to use the bathroom you feel comfortable in.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1943"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan1991">Ritchie</flowSpan> - this room is used for cables, hardware, games, and craft supplies. It is also is home to our Heap computing cluster!</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1945"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan1993">Sammet/Hopper</flowSpan> - used as conference rooms and for all kinds of events.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1311"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan1995">Turing</flowSpan> - another working space/multimedia room. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara1291" /><flowPara
+         style="font-size:16px;line-height:139.99999762%"
+         id="flowPara1293" /></flowRoot>    <flowRoot
+       transform="matrix(0.24549904,0,0,0.24549904,223.441,-0.33501)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99936104px;line-height:0px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88976383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="flowRoot1341"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1317"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99936104px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+           y="1262.1429"
+           x="-199.28571"
+           height="445.8569"
+           width="502.87567"
+           id="rect1315"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99936104px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara2065"
+         style="line-height:139.99999762%"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan2083">Faculty area</flowSpan> - this is where faculty sits. Nearby are rooms used by faculty – you can book 1-on-1 meetings there on the RC calendar (even during NGW).</flowPara><flowPara
+         id="flowPara2067"
+         style="line-height:139.99999762%"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan2085">Standing desks</flowSpan> - you can adjust the height!</flowPara><flowPara
+         id="flowPara2069"
+         style="line-height:139.99999762%"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan2087">Library</flowSpan> - we’ve got lots of books for you to borrow, please don’t take them out of the space. Check out the stand of books written by Recursers!</flowPara><flowPara
+         id="flowPara2071"
+         style="line-height:139.99999762%"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan2089">Nap space</flowSpan> - please don’t sleep in the space overnight, but you can nap here during the day.</flowPara><flowPara
+         id="flowPara2073"
+         style="line-height:139.99999762%"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan2091">Lovelace</flowSpan> - this is the wellness/lactation room. Priority goes to parents but you can use it for short-term, individual things like meditation.</flowPara><flowPara
+         id="flowPara2075"
+         style="line-height:139.99999762%"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan2093">Dijkstra</flowSpan>  - this is a comfy room you can use to work if you prefer a couch or dimmer lighting.</flowPara><flowPara
+         id="flowPara2077"
+         style="line-height:139.99999762%"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan2095">Church</flowSpan> - reserved for folks working remotely during NGW.</flowPara><flowPara
+         id="flowPara2079"
+         style="line-height:139.99999762%"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan2097">Phone rooms</flowSpan> - you can book these on the calendar, or just go in when empty.</flowPara><flowPara
+         id="flowPara2081"
+         style="line-height:139.99999762%"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan2099">Bathrooms</flowSpan> - these 2 bathrooms are both gender neutral, so you can use either one, any time.</flowPara></flowRoot>    <g
+       transform="matrix(0.24051498,0,0,0.24051498,19.467184,256.64545)"
+       id="g2019">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2013"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text2017"><tspan
+           sodipodi:role="line"
+           id="tspan2015"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">2</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.24051498,0,0,0.24051498,19.467184,267.07845)"
+       id="g2027">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2021"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text2025"><tspan
+           sodipodi:role="line"
+           id="tspan2023"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">3</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.24051498,0,0,0.24051498,19.467184,273.61706)"
+       id="g2035">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2029"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text2033"><tspan
+           sodipodi:role="line"
+           id="tspan2031"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">4</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.24051498,0,0,0.24051498,19.467184,294.86499)"
+       id="g2043">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2037"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text2041"><tspan
+           sodipodi:role="line"
+           id="tspan2039"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">5</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.24051498,0,0,0.24051498,19.467184,306.35758)"
+       id="g2051">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2045"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text2049"><tspan
+           sodipodi:role="line"
+           id="tspan2047"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">6</tspan></text>
+    </g>
+    <g
+       id="g2003"
+       transform="matrix(0.24051498,0,0,0.24051498,19.467184,322.52738)">
+      <circle
+         r="10.205358"
+         cy="278.19049"
+         cx="26.836309"
+         id="circle1997"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text2001"
+         y="283.9155"
+         x="26.840504"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681"
+           y="283.9155"
+           x="26.840504"
+           id="tspan1999"
+           sodipodi:role="line">7</tspan></text>
+    </g>
+    <g
+       id="g2059"
+       transform="matrix(0.24051498,0,0,0.24051498,19.467184,245.82103)">
+      <circle
+         r="10.205358"
+         cy="278.19049"
+         cx="26.836309"
+         id="circle2053"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text2057"
+         y="283.9155"
+         x="26.840504"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681"
+           y="283.9155"
+           x="26.840504"
+           id="tspan2055"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.24051498,0,0,0.24051498,163.25819,245.01922)"
+       id="g2107">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2101"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text2105"><tspan
+           sodipodi:role="line"
+           id="tspan2103"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">1</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.24051498,0,0,0.24051498,163.25819,261.13367)"
+       id="g2123">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2117"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text2121"><tspan
+           sodipodi:role="line"
+           id="tspan2119"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">2</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.24051498,0,0,0.24051498,163.25819,267.50228)"
+       id="g2131">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2125"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text2129"><tspan
+           sodipodi:role="line"
+           id="tspan2127"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">3</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.24051498,0,0,0.24051498,163.25819,282.97149)"
+       id="g2139">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2133"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text2137"><tspan
+           sodipodi:role="line"
+           id="tspan2135"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">4</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.24051498,0,0,0.24051498,163.25819,294.46408)"
+       id="g2147">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2141"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text2145"><tspan
+           sodipodi:role="line"
+           id="tspan2143"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">5</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.24051498,0,0,0.24051498,163.25819,310.90116)"
+       id="g2155">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2149"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text2153"><tspan
+           sodipodi:role="line"
+           id="tspan2151"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">6</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.24051498,0,0,0.24051498,163.35268,321.40295)"
+       id="g2163">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2157"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text2161"><tspan
+           sodipodi:role="line"
+           id="tspan2159"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">7</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.24051498,0,0,0.24051498,163.25819,327.8107)"
+       id="g2171">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2165"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text2169"><tspan
+           sodipodi:role="line"
+           id="tspan2167"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">8</tspan></text>
+    </g>
+    <g
+       id="g2115"
+       transform="matrix(0.24051498,0,0,0.24051498,163.25819,338.42992)">
+      <circle
+         r="10.205358"
+         cy="278.19049"
+         cx="26.836309"
+         id="circle2109"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text2113"
+         y="283.9155"
+         x="26.840504"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681"
+           y="283.9155"
+           x="26.840504"
+           id="tspan2111"
+           sodipodi:role="line">9</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.24051498,0,0,0.24051498,19.467184,333.48543)"
+       id="g3463">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3457"
+         cx="26.836309"
+         cy="278.19049"
+         r="10.205358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="26.840504"
+         y="283.9155"
+         id="text3461"><tspan
+           sodipodi:role="line"
+           id="tspan3459"
+           x="26.840504"
+           y="283.9155"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681">8</tspan></text>
+    </g>
+    <g
+       id="g3447"
+       transform="matrix(0.29944054,0,0,0.29944054,237.18508,131.85372)">
+      <circle
+         r="10.205358"
+         cy="278.19049"
+         cx="26.836309"
+         id="circle3441"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text3445"
+         y="283.9155"
+         x="26.840504"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.65255165px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96683681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.96683681"
+           y="283.9155"
+           x="26.840504"
+           id="tspan3443"
+           sodipodi:role="line">3</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1341-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99936104px;line-height:0px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88976383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.23894655,-0.05634112,0.05634112,0.23894655,109.3258,-148.78014)"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99936104px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowRegion1317-6"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.99936104px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="rect1315-8"
+           width="502.87567"
+           height="445.8569"
+           x="-199.28571"
+           y="1262.1429" /></flowRegion><flowPara
+         style="line-height:120.00000477%"
+         id="flowPara2081-6">Remember to take a keyfob</flowPara><flowPara
+         style="line-height:120.00000477%"
+         id="flowPara3649">when using the stairs!</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.69831371px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.43680874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.74723481, 1.74723481;stroke-dashoffset:0;stroke-opacity:1"
+       x="159.76906"
+       y="423.47284"
+       id="text2063-6"><tspan
+         sodipodi:role="line"
+         id="tspan2061-6"
+         x="160.26746"
+         y="423.47284"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#000000;stroke:none;stroke-width:0.43680874">Made by blinry, Jared, and Tim. Feedback? Leave us a note on the map by the elevators on the 4th floor! &lt;3 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.52761745px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.59775019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.39100082, 6.39100082;stroke-dashoffset:0;stroke-opacity:1"
+       x="22.747978"
+       y="22.638067"
+       id="text2063-1"><tspan
+         sodipodi:role="line"
+         x="22.747978"
+         y="22.638067"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.59775019"
+         id="tspan3691">Welcome back to RC – take a self-guided tour!</tspan></text>
+    <g
+       style="display:inline"
+       id="g3492"
+       transform="rotate(-12.955878,124.35768,172.35492)">
+      <path
+         inkscape:transform-center-y="-0.44203548"
+         inkscape:transform-center-x="1.7404086e-06"
+         d="m 129.37515,167.09869 4.00886,6.94355 -8.01772,0 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-0.52359875"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="2.0835648"
+         sodipodi:r1="4.6290331"
+         sodipodi:cy="171.72772"
+         sodipodi:cx="129.37515"
+         sodipodi:sides="3"
+         id="path3469"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.99999998, 1.99999998;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <text
+         id="text1470-2"
+         y="173.19843"
+         x="129.43011"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.98644924px;line-height:139.99999762%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';font-variant-ligatures:discretionary-ligatures historical-ligatures;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums slashed-zero;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.58895063;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.58895063"
+           y="173.19843"
+           x="129.43011"
+           id="tspan1468-8"
+           sodipodi:role="line">!</tspan></text>
+    </g>
   </g>
 </svg>
